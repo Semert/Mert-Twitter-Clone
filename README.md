@@ -1,5 +1,7 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/44974863/93777202-20120080-fc2d-11ea-830c-b88ed2813fbc.gif)
 
+### Twitter clone project made up with react and Firebase. In this friendly beginner project you can post text, image or gif and it'll be automaticly added on firebase database.
+
 
 ## Available Scripts
 
